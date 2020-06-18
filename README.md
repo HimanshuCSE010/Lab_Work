@@ -1,2 +1,2 @@
 # Lab_Work
-This folder includes Information Retrival mini project which offer some basic function useful in information retrival.
+This folder includes programs I made as mini project in my college as part of my assignments or lab work.
